@@ -2,180 +2,180 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://END887.github.io/hugo/</loc>
+    <loc>http://localhost:1313/hugo/</loc>
     <lastmod>2025-08-24T21:01:20+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://END887.github.io/hugo/zh-cn/"
+                href="http://localhost:1313/hugo/zh-cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://END887.github.io/hugo/ar/"
+                href="http://localhost:1313/hugo/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://END887.github.io/hugo/"
+                href="http://localhost:1313/hugo/"
                 />
   </url><url>
-    <loc>https://END887.github.io/hugo/p/end887/</loc>
+    <loc>http://localhost:1313/hugo/p/end887/</loc>
     <lastmod>2025-08-24T21:01:20+08:00</lastmod>
   </url><url>
-    <loc>https://END887.github.io/hugo/post/</loc>
+    <loc>http://localhost:1313/hugo/post/</loc>
     <lastmod>2025-08-24T21:01:20+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://END887.github.io/hugo/zh-cn/post/"
+                href="http://localhost:1313/hugo/zh-cn/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://END887.github.io/hugo/ar/post/"
+                href="http://localhost:1313/hugo/ar/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://END887.github.io/hugo/post/"
+                href="http://localhost:1313/hugo/post/"
                 />
   </url><url>
-    <loc>https://END887.github.io/hugo/p/yangshin/</loc>
+    <loc>http://localhost:1313/hugo/p/yangshin/</loc>
     <lastmod>2025-08-24T20:29:59+08:00</lastmod>
   </url><url>
-    <loc>https://END887.github.io/hugo/archives/</loc>
+    <loc>http://localhost:1313/hugo/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://END887.github.io/hugo/page/</loc>
+    <loc>http://localhost:1313/hugo/page/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://END887.github.io/hugo/zh-cn/page/"
+                href="http://localhost:1313/hugo/zh-cn/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://END887.github.io/hugo/page/"
+                href="http://localhost:1313/hugo/page/"
                 />
   </url><url>
-    <loc>https://END887.github.io/hugo/categories/</loc>
+    <loc>http://localhost:1313/hugo/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://END887.github.io/hugo/zh-cn/categories/"
+                href="http://localhost:1313/hugo/zh-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://END887.github.io/hugo/ar/categories/"
+                href="http://localhost:1313/hugo/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://END887.github.io/hugo/categories/"
+                href="http://localhost:1313/hugo/categories/"
                 />
   </url><url>
-    <loc>https://END887.github.io/hugo/tags/css/</loc>
+    <loc>http://localhost:1313/hugo/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://END887.github.io/hugo/tags/html/</loc>
+    <loc>http://localhost:1313/hugo/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://END887.github.io/hugo/tags/markdown/</loc>
+    <loc>http://localhost:1313/hugo/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://END887.github.io/hugo/p/markdown-syntax-guide/</loc>
+    <loc>http://localhost:1313/hugo/p/markdown-syntax-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://END887.github.io/hugo/categories/syntax/</loc>
+    <loc>http://localhost:1313/hugo/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://END887.github.io/hugo/tags/</loc>
+    <loc>http://localhost:1313/hugo/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://END887.github.io/hugo/zh-cn/tags/"
+                href="http://localhost:1313/hugo/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://END887.github.io/hugo/ar/tags/"
+                href="http://localhost:1313/hugo/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://END887.github.io/hugo/tags/"
+                href="http://localhost:1313/hugo/tags/"
                 />
   </url><url>
-    <loc>https://END887.github.io/hugo/categories/themes/</loc>
+    <loc>http://localhost:1313/hugo/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://END887.github.io/hugo/tags/themes/</loc>
+    <loc>http://localhost:1313/hugo/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://END887.github.io/hugo/p/placeholder-text/</loc>
+    <loc>http://localhost:1313/hugo/p/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://END887.github.io/hugo/ar/p/%D9%85%D8%AB%D8%A7%D9%84-%D9%86%D8%B5/"
+                href="http://localhost:1313/hugo/ar/p/%D9%85%D8%AB%D8%A7%D9%84-%D9%86%D8%B5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://END887.github.io/hugo/p/placeholder-text/"
+                href="http://localhost:1313/hugo/p/placeholder-text/"
                 />
   </url><url>
-    <loc>https://END887.github.io/hugo/tags/tag-with-whitespaces/</loc>
+    <loc>http://localhost:1313/hugo/tags/tag-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://END887.github.io/hugo/categories/test/</loc>
+    <loc>http://localhost:1313/hugo/categories/test/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://END887.github.io/hugo/zh-cn/categories/test/"
+                href="http://localhost:1313/hugo/zh-cn/categories/test/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://END887.github.io/hugo/categories/test/"
+                href="http://localhost:1313/hugo/categories/test/"
                 />
   </url><url>
-    <loc>https://END887.github.io/hugo/categories/test-with-whitespaces/</loc>
+    <loc>http://localhost:1313/hugo/categories/test-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://END887.github.io/hugo/tags/text/</loc>
+    <loc>http://localhost:1313/hugo/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://END887.github.io/hugo/p/math-typesetting/</loc>
+    <loc>http://localhost:1313/hugo/p/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://END887.github.io/hugo/tags/emoji/</loc>
+    <loc>http://localhost:1313/hugo/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://END887.github.io/hugo/p/emoji-support/</loc>
+    <loc>http://localhost:1313/hugo/p/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://END887.github.io/hugo/about/</loc>
+    <loc>http://localhost:1313/hugo/about/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://END887.github.io/hugo/zh-cn/%E5%85%B3%E4%BA%8E/"
+                href="http://localhost:1313/hugo/zh-cn/%E5%85%B3%E4%BA%8E/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://END887.github.io/hugo/about/"
+                href="http://localhost:1313/hugo/about/"
                 />
   </url><url>
-    <loc>https://END887.github.io/hugo/links/</loc>
+    <loc>http://localhost:1313/hugo/links/</loc>
   </url><url>
-    <loc>https://END887.github.io/hugo/search/</loc>
+    <loc>http://localhost:1313/hugo/search/</loc>
   </url>
 </urlset>

@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Categories on Example Site</title>
-        <link>https://END887.github.io/hugo/categories/</link>
-        <description>Recent content in Categories on Example Site</description>
+        <title>Categories on Yangshin CEO</title>
+        <link>http://localhost:1313/hugo/categories/</link>
+        <description>Recent content in Categories on Yangshin CEO</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>Example Person</copyright>
-        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://END887.github.io/hugo/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <copyright>yangshin CEO</copyright>
+        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/hugo/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Syntax</title>
-        <link>https://END887.github.io/hugo/categories/syntax/</link>
+        <link>http://localhost:1313/hugo/categories/syntax/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://END887.github.io/hugo/categories/syntax/</guid>
+        <guid>http://localhost:1313/hugo/categories/syntax/</guid>
         <description></description>
         </item>
         <item>
         <title>Themes</title>
-        <link>https://END887.github.io/hugo/categories/themes/</link>
+        <link>http://localhost:1313/hugo/categories/themes/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://END887.github.io/hugo/categories/themes/</guid>
+        <guid>http://localhost:1313/hugo/categories/themes/</guid>
         <description></description>
         </item>
         <item>
         <title>Test</title>
-        <link>https://END887.github.io/hugo/categories/test/</link>
+        <link>http://localhost:1313/hugo/categories/test/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://END887.github.io/hugo/categories/test/</guid>
-        <description>&lt;img src="https://END887.github.io/hugo/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        <guid>http://localhost:1313/hugo/categories/test/</guid>
+        <description>&lt;img src="http://localhost:1313/hugo/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
         </item>
         <item>
         <title>Test With Whitespaces</title>
-        <link>https://END887.github.io/hugo/categories/test-with-whitespaces/</link>
+        <link>http://localhost:1313/hugo/categories/test-with-whitespaces/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://END887.github.io/hugo/categories/test-with-whitespaces/</guid>
+        <guid>http://localhost:1313/hugo/categories/test-with-whitespaces/</guid>
         <description></description>
         </item>
         
